@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70489524443",
+    "project_id": "login-2049d",
+    "storage_bucket": "login-2049d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70489524443:android:1d4a449803521d057364fe",
+        "android_client_info": {
+          "package_name": "com.example.tuan5_bt1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWP8QRvD3s0y8A4_Ofs5QnCjB7qDuVA7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
